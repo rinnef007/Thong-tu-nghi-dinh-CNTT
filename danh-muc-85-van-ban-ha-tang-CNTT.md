@@ -90,7 +90,7 @@ Ngày kiểm tra: 04/11/2026
 | 50 | Nghị quyết | Nghị quyết 30-NQ/TW (2018) — an ninh mạng quốc gia | [Trang tổng hợp GXD](https://dautu.gxd.vn/van-ban/cntt/cong-nghe-thong-tin.html) |
 | 51 | Nghị quyết | Nghị quyết 22-NQ/TW (2018) — nâng cao năng lực lãnh đạo, sức chiến đấu của tổ chức cơ sở Đảng và chất lượng đội ngũ cán bộ, đảng viên | [Trang tổng hợp GXD](https://dautu.gxd.vn/van-ban/cntt/cong-nghe-thong-tin.html) |
 | 52 | Nghị quyết | Nghị quyết 52-NQ/TW (2019) — chủ trương, chính sách tham gia Cách mạng công nghiệp lần thứ tư | [Trang tổng hợp GXD](https://dautu.gxd.vn/van-ban/cntt/cong-nghe-thong-tin.html) |
-| 53 | Nghị định | Nghị định 40/2020/NĐ-CP — thi hành một số điều của Luật Đầu tư công | [Trang tổng hợp GXD](https://dautu.gxd.vn/van-ban/cntt/cong-nghe-thong-tin.html) |
+| 53 | Nghị định | Nghị định 40/2020/NĐ-CP — thi hành một số điều của Luật Đầu tư công — **HẾT HIỆU LỰC, đã được thay thế hoàn toàn bởi Nghị định 85/2025/NĐ-CP (08/04/2025)** | [Trang tổng hợp GXD](https://dautu.gxd.vn/van-ban/cntt/cong-nghe-thong-tin.html) |
 | 54 | Nghị định | ⚠️ ĐÃ BỊ THAY THẾ — Nghị định 73/2019/NĐ-CP, trùng mục 4. Trích mới: Nghị định 45/2026/NĐ-CP, ban hành 26/01/2026, hiệu lực 01/03/2026 | [Trang tổng hợp GXD](https://dautu.gxd.vn/van-ban/cntt/cong-nghe-thong-tin.html) |
 | 55 | Nghị định | Nghị định 64/2007/NĐ-CP — ứng dụng CNTT trong hoạt động của cơ quan Nhà nước | [Trang tổng hợp GXD](https://dautu.gxd.vn/van-ban/cntt/cong-nghe-thong-tin.html) |
 | 56 | Nghị định | 🚩 ĐANG CHUYỂN ĐỔI, CHƯA KHẲNG ĐỊNH TRẠNG THÁI PHÁP LÝ CUỐI CÙNG — Nghị định 85/2016/NĐ-CP, trùng mục 5. Xem cờ chuyển đổi và mốc 6 tháng / 12 tháng ghi ở mục 5; cần tra cứu điều khoản chuyển tiếp chính thức trước khi trích | [Trang tổng hợp GXD](https://dautu.gxd.vn/van-ban/cntt/cong-nghe-thong-tin.html) |
@@ -98,7 +98,7 @@ Ngày kiểm tra: 04/11/2026
 | 58 | Nghị định | Nghị định 25/2011/NĐ-CP — thi hành một số điều của Luật Viễn thông | [Trang tổng hợp GXD](https://dautu.gxd.vn/van-ban/cntt/cong-nghe-thong-tin.html) |
 | 59 | Nghị định | Nghị định 81/2016/NĐ-CP — sửa đổi, bổ sung Nghị định 25/2011/NĐ-CP | [Trang tổng hợp GXD](https://dautu.gxd.vn/van-ban/cntt/cong-nghe-thong-tin.html) |
 | 60 | Nghị định | Nghị định 49/2017/NĐ-CP — hợp đồng mẫu với điểm cung cấp dịch vụ viễn thông, đại lý bán SIM và xử phạt vi phạm hành chính trong viễn thông di động | [Trang tổng hợp GXD](https://dautu.gxd.vn/van-ban/cntt/cong-nghe-thong-tin.html) |
-| 61 | Nghị định | Nghị định 40/2020/NĐ-CP — trùng mục 53 | [Trang tổng hợp GXD](https://dautu.gxd.vn/van-ban/cntt/cong-nghe-thong-tin.html) |
+| 61 | Nghị định | Nghị định 40/2020/NĐ-CP — trùng mục 53 — **HẾT HIỆU LỰC, đã được thay thế hoàn toàn bởi Nghị định 85/2025/NĐ-CP (08/04/2025)** | [Trang tổng hợp GXD](https://dautu.gxd.vn/van-ban/cntt/cong-nghe-thong-tin.html) |
 | 62 | Nghị định | Nghị định 18/2014/NĐ-CP — chế độ nhuận bút trong lĩnh vực báo chí, xuất bản | [Trang tổng hợp GXD](https://dautu.gxd.vn/van-ban/cntt/cong-nghe-thong-tin.html) |
 | 63 | Quyết định | Quyết định 2556/QĐ-NHNN — chiến lược phát triển CNTT ngành ngân hàng | [Trang tổng hợp GXD](https://dautu.gxd.vn/van-ban/cntt/cong-nghe-thong-tin.html) |
 | 64 | Quyết định | Quyết định 166/GP-NHNN — chức năng, nhiệm vụ, quyền hạn, cơ cấu tổ chức của Ngân hàng Hợp tác xã | [Trang tổng hợp GXD](https://dautu.gxd.vn/van-ban/cntt/cong-nghe-thong-tin.html) |
@@ -114,7 +114,7 @@ Ngày kiểm tra: 04/11/2026
 | 74 | Thông tư | Thông tư 40/2017/TT-BTC — chế độ công tác phí, chế độ chi hội nghị | [Trang tổng hợp GXD](https://dautu.gxd.vn/van-ban/cntt/cong-nghe-thong-tin.html) |
 | 75 | Thông tư | Thông tư 27/2018/TT-BTC — chế độ tài chính cho Giải thưởng sáng tạo khoa học công nghệ Việt Nam | [Trang tổng hợp GXD](https://dautu.gxd.vn/van-ban/cntt/cong-nghe-thong-tin.html) |
 | 76 | Thông tư | Thông tư 45/2013/TT-BTC — quản lý, sử dụng và trích khấu hao tài sản cố định | [Trang tổng hợp GXD](https://dautu.gxd.vn/van-ban/cntt/cong-nghe-thong-tin.html) |
-| 77 | Thông tư | Thông tư 03/2018/TT-BTTTT — định mức kinh tế kỹ thuật về sản xuất chương trình truyền hình | [Trang tổng hợp GXD](https://dautu.gxd.vn/van-ban/cntt/cong-nghe-thong-tin.html) |
+| 77 | Thông tư | Thông tư 03/2018/TT-BTTTT — định mức kinh tế kỹ thuật về sản xuất chương trình truyền hình — **HẾT HIỆU LỰC từ 30/04/2026, thay thế bởi Thông tư 01/2026/TT-BVHTTDL (12/03/2026, Bộ Văn hóa, Thể thao và Du lịch)** | [Trang tổng hợp GXD](https://dautu.gxd.vn/van-ban/cntt/cong-nghe-thong-tin.html) |
 | 78 | Thông tư | Thông tư 194/2012/TT-BTC — mức chi tạo lập thông tin điện tử nhằm duy trì hoạt động thường xuyên | [Trang tổng hợp GXD](https://dautu.gxd.vn/van-ban/cntt/cong-nghe-thong-tin.html) |
 | 79 | Thông tư | Thông tư 139/2010/TT-BTC — lập dự toán, quản lý, sử dụng kinh phí ngân sách nhà nước cho đào tạo, bồi dưỡng cán bộ, công chức | [Trang tổng hợp GXD](https://dautu.gxd.vn/van-ban/cntt/cong-nghe-thong-tin.html) |
 | 80 | Thông tư | ⚠️ ĐÃ BỊ THAY THẾ (theo cùng văn bản thay thế mục 6) — Thông tư 12/2020/TT-BTTTT (gốc, xác định chi phí thuê dịch vụ CNTT dùng vốn ngân sách nhà nước theo phương pháp tính chi phí). Trích mới: Thông tư 18/2024/TT-BTTTT, hiệu lực 14/02/2025 | [Trang tổng hợp GXD](https://dautu.gxd.vn/van-ban/cntt/cong-nghe-thong-tin.html) |

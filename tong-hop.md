@@ -36,7 +36,7 @@ Mỗi file nhỏ dưới đây đã gộp phần gốc + phần bổ sung nối 
 | 3 | Nghị định 47/2020/NĐ-CP | [nghi-dinh/03-47-2020-ND-CP.md](nghi-dinh/03-47-2020-ND-CP.md) | Đã gộp phần còn lại đến điều 56 |
 | 4, 54 | Nghị định 45/2026/NĐ-CP (thay thế 73/2019) | [nghi-dinh/04-45-2026-ND-CP.md](nghi-dinh/04-45-2026-ND-CP.md) | Đã gộp phần còn lại từ khoản 4 điều 7 đến điều 43 (điều 41 là điều hiệu lực 01/03/2026) và Phụ lục Mẫu 01–07 |
 | 5, 56 | Nghị định 85/2016/NĐ-CP | [nghi-dinh/05-85-2016-ND-CP.md](nghi-dinh/05-85-2016-ND-CP.md) | Đã gộp phần còn lại điều 14 đến điều 26 và Phụ lục Mẫu 01–07; gắn cờ đang chuyển đổi |
-| 53, 61 | Nghị định 40/2020/NĐ-CP | [nghi-dinh/53-40-2020-ND-CP.md](nghi-dinh/53-40-2020-ND-CP.md) | Vẫn chưa đủ: còn thiếu phần còn lại Mẫu 07, Mẫu 08, Mẫu 09 và nội dung từ dòng nguồn 2234–2449 |
+| 53, 61 | Nghị định 40/2020/NĐ-CP | [nghi-dinh/53-40-2020-ND-CP.md](nghi-dinh/53-40-2020-ND-CP.md) | **HẾT HIỆU LỰC — đã được thay thế hoàn toàn bởi Nghị định 85/2025/NĐ-CP (08/04/2025).** File giữ toàn văn cũ để đối chiếu lịch sử; phần còn thiếu Mẫu 07, Mẫu 08, Mẫu 09 và nội dung từ dòng nguồn 2234–2449 không cần bổ sung cho hồ sơ mới |
 | 55 | Nghị định 64/2007/NĐ-CP | [nghi-dinh/55-64-2007-ND-CP.md](nghi-dinh/55-64-2007-ND-CP.md) | Đủ nội dung điều khoản từ điều 14 đến điều 56; còn thiếu tiêu đề chính thức các điều 18–56, tiêu đề chương/mục, khối ký tên và đối chiếu nguồn chính thức |
 | 57 | Nghị định 163/2016/NĐ-CP | [nghi-dinh/57-163-2016-ND-CP.md](nghi-dinh/57-163-2016-ND-CP.md) | Đủ toàn văn tiếng Việt điều 1–55; lưu ý điều 33 trong nguồn nhảy khoản và một số lỗi ký tự đã chuẩn hóa theo ngữ cảnh |
 | 58 | Nghị định 25/2011/NĐ-CP | [nghi-dinh/58-25-2011-ND-CP.md](nghi-dinh/58-25-2011-ND-CP.md) | Đã gộp phần còn lại đến điều 46 và khối ký tên, bản gốc 2011 |
@@ -60,11 +60,18 @@ Hình ảnh nghị định: [hinh-anh/nghi-dinh.md](hinh-anh/nghi-dinh.md)
 | 74 | Thông tư 40/2017/TT-BTC | [thong-tu/74-40-2017-TT-BTC.md](thong-tu/74-40-2017-TT-BTC.md) | Đủ điều 1–16, không có phụ lục |
 | 75 | Thông tư 27/2018/TT-BTC | [thong-tu/75-27-2018-TT-BTC.md](thong-tu/75-27-2018-TT-BTC.md) | Cơ bản đủ; còn cần đối chiếu dòng ký tên và khả năng một điểm bị lược |
 | 76 | Thông tư 45/2013/TT-BTC | [thong-tu/76-45-2013-TT-BTC.md](thong-tu/76-45-2013-TT-BTC.md) | Đã bổ sung đủ phần còn lại điều 10, điều 14, Phụ lục I và Phụ lục 2; còn lưu ý hệ số điều chỉnh khác nhau giữa 2 nguồn |
-| 77 | Thông tư 03/2018/TT-BTTTT | [thong-tu/77-03-2018-TT-BTTTT.md](thong-tu/77-03-2018-TT-BTTTT.md) | Vẫn thiếu lớn các bảng Phần II và phụ lục ở giữa; trong file đã có bản đồ mã hiệu để nối tiếp |
+| 77 | Thông tư 03/2018/TT-BTTTT | [thong-tu/77-03-2018-TT-BTTTT.md](thong-tu/77-03-2018-TT-BTTTT.md) | **HẾT HIỆU LỰC từ 30/04/2026 — thay thế bởi Thông tư 01/2026/TT-BVHTTDL (12/03/2026, Bộ Văn hóa, Thể thao và Du lịch) về định mức kinh tế - kỹ thuật dịch vụ sản xuất chương trình phát thanh, truyền hình.** File giữ toàn văn cũ để đối chiếu lịch sử; các bảng Phần II và phụ lục ở giữa còn thiếu không cần bổ sung cho hồ sơ mới |
 | 78 | Thông tư 194/2012/TT-BTC | [thong-tu/78-194-2012-TT-BTC.md](thong-tu/78-194-2012-TT-BTC.md) | Đủ 6 điều, không có phụ lục trong bản đã đọc |
 | 79 | Thông tư 139/2010/TT-BTC | [thong-tu/79-139-2010-TT-BTC.md](thong-tu/79-139-2010-TT-BTC.md) | Đủ điều 1–6; danh sách nơi nhận cuối văn bản không hiển thị đầy đủ trong bản trích nguồn |
 
 Hình ảnh thông tư: [hinh-anh/thong-tu.md](hinh-anh/thong-tu.md) — ghi rõ các công thức Thông tư 18/2024 dạng ảnh image001–image040 và 3 bảng tỷ lệ chưa hiển thị rõ ô số liệu.
+
+## Ghi chú hiệu lực bổ sung ngày 04/11/2026
+
+- **Nghị định 40/2020/NĐ-CP (mục 53, 61):** hết hiệu lực, thay thế hoàn toàn bởi Nghị định 85/2025/NĐ-CP ngày 08/04/2025. Gap Mẫu 07–09 đóng lại với lý do hết hiệu lực, không phải vì đã bổ sung đủ.
+- **Thông tư 03/2018/TT-BTTTT (mục 77):** hết hiệu lực từ 30/04/2026, thay thế bởi Thông tư 01/2026/TT-BVHTTDL ngày 12/03/2026. Gap bảng Phần II / phụ lục đóng lại với lý do hết hiệu lực, không phải vì đã bổ sung đủ.
+- **QCVN 18:2014/BXD — ngoài danh mục 85, ghi chú riêng, không đếm vào 29 văn bản toàn văn:** quy chuẩn về an toàn trong xây dựng, ban hành kèm Thông tư 14/2014/TT-BXD, đã bị thay thế hoàn toàn kể từ 20/06/2022 bởi QCVN 18:2021/BXD về an toàn trong thi công xây dựng, ban hành kèm Thông tư 16/2021/TT-BXD ngày 20/12/2021 của Bộ Xây dựng. QCVN này không có trong danh mục 85 và không có file toàn văn trong bộ này, nên ghi chú này chỉ để đối chiếu, không làm thay đổi số lượng 85 mục hay 29 văn bản.
+- **Chưa thay đổi theo ghi chú này:** trạng thái của 21 QCVN kèm Thông tư 18/2010/TT-BTTTT (chỉ một số khoản bị bãi bỏ bởi Thông tư 23/2021, chưa có căn cứ bãi bỏ toàn bộ cả 21) và công thức dạng ảnh của Thông tư 18/2024/TT-BTTTT (đang chuyển tiếp sang Thông tư 39/2026/TT-BKHCN, dự án đang làm được tiếp tục theo 18/2024). Hai mục này vẫn giữ nguyên trạng thái cũ trong bảng trên cho đến khi có văn bản bãi bỏ/thay thế toàn bộ cụ thể.
 
 ## Cách đối chiếu nhanh
 
