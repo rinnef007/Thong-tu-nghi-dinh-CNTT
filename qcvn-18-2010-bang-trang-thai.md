@@ -9,8 +9,8 @@
 
 - Còn hiệu lực (phiên bản 2010, theo các nguồn đã kiểm tra): 10 QCVN (khoản 1, 2, 3, 4, 5, 6, 9, 18, 19, 20).
 - Đã bãi bỏ: 4 QCVN (khoản 10, 12, 13, 16) — đều theo Thông tư 23/2021/TT-BTTTT, hiệu lực 01/07/2022.
-- Đã thay thế: 6 QCVN (khoản 7, 8, 11, 15, 17, 21).
-- Chưa xác nhận được trạng thái sau 2022: 1 QCVN (khoản 14).
+- Đã thay thế: 7 QCVN (khoản 7, 8, 11, 14, 15, 17, 21).
+- Chưa xác nhận được trạng thái: 0 QCVN (cập nhật 04/11/2026: 2 điểm chưa xác nhận trước đó — khoản 11 và khoản 14 — đã được chốt bằng Quyết định 138/QĐ-BTTTT và các thông tư 22/2015, 23/2015, 43/2020, xem bảng).
 
 ## Bảng chi tiết
 
@@ -26,11 +26,11 @@
 | 8 | QCVN 9:2010/BTTTT | Tiếp đất cho các trạm viễn thông | Đã thay thế (từ trước 2022) | Thông tư 26/2016/TT-BTTTT ban hành QCVN 9:2016/BTTTT; QCVN 9:2010 hết hiệu lực từ 01/05/2017; TT26/2016 còn hiệu lực |
 | 9 | QCVN 10:2010/BTTTT | Thiết bị điện thoại không dây (kéo dài thuê bao) | Còn hiệu lực (phiên bản 2010) | — |
 | 10 | QCVN 11:2010/BTTTT | Thiết bị trạm gốc thông tin di động GSM | Đã bãi bỏ | Điểm a khoản 1 Điều 1 Thông tư 23/2021/TT-BTTTT, hiệu lực 01/07/2022 |
-| 11 | QCVN 12:2010/BTTTT | Thiết bị đầu cuối thông tin di động GSM | Đã thay thế (phiên bản 2010 hết hiệu lực); văn bản kế tiếp sau 2021 chưa xác nhận | Thông tư 22/2015/TT-BTTTT ban hành QCVN 12:2015/BTTTT, thay QCVN 12:2010 (xem ghi chú về ngày hiệu lực). Bản thân TT22/2015 hết hiệu lực toàn bộ ngày 01/07/2021 nhưng Lược đồ của nó không liệt kê văn bản thay thế, nên không xác định được QCVN GSM kế tiếp sau 2021 |
+| 11 | QCVN 12:2010/BTTTT | Thiết bị đầu cuối thông tin di động GSM | Đã thay thế (chuỗi 2 lần) | Thông tư 22/2015/TT-BTTTT của Bộ trưởng Bộ Thông tin và Truyền thông (ngày 17/08/2015, ký Nguyễn Bắc Son) ban hành QCVN 12:2015/BTTTT, thay QCVN 12:2010 từ 01/03/2016 (theo Điều 2; tiêu đề trang vbpl.vn ghi 01/09/2016 là sai lệch). Sau đó Thông tư 43/2020/TT-BTTTT của Bộ trưởng Bộ Thông tin và Truyền thông ban hành QCVN về thiết bị đầu cuối thông tin di động mặt đất - Phần truy nhập vô tuyến, thay TT22/2015 từ 01/07/2021 (theo Quyết định 138/QĐ-BTTTT ngày 26/01/2022 của Bộ trưởng Bộ Thông tin và Truyền thông, danh mục văn bản hết hiệu lực năm 2021) |
 | 12 | QCVN 13:2010/BTTTT | Thiết bị đầu cuối thông tin di động CDMA 2000 1x | Đã bãi bỏ | Điểm b khoản 1 Điều 1 Thông tư 23/2021/TT-BTTTT, hiệu lực 01/07/2022 |
 | 13 | QCVN 14:2010/BTTTT | Thiết bị trạm gốc thông tin di động CDMA 2000 1x | Đã bãi bỏ | Điểm c khoản 1 Điều 1 Thông tư 23/2021/TT-BTTTT, hiệu lực 01/07/2022 |
-| 14 | QCVN 15:2010/BTTTT | Thiết bị đầu cuối thông tin di động W-CDMA FDD | Chưa xác nhận sau 2022 | Theo bản hợp nhất 2022 và Lược đồ 18/2010 không bị ghi bãi bỏ/thay thế, nhưng tra cứu W-CDMA trên vbpl.vn cho kết quả nhiễu, không xác minh được văn bản 2023 về đầu cuối W-CDMA FDD nên không khẳng định tuyệt đối còn hiệu lực |
-| 15 | QCVN 16:2010/BTTTT | Thiết bị trạm gốc thông tin di động W-CDMA FDD | Đã thay thế (từ trước 2022) | Thông tư 06/2018/TT-BTTTT ban hành QCVN 16:2018/BTTTT, thay QCVN 16:2010 (xem ghi chú về ngày hiệu lực); TT06/2018 còn hiệu lực |
+| 14 | QCVN 15:2010/BTTTT | Thiết bị đầu cuối thông tin di động W-CDMA FDD | Đã thay thế (chuỗi 2 lần) | Thông tư 23/2015/TT-BTTTT của Bộ trưởng Bộ Thông tin và Truyền thông (ngày 17/08/2015) ban hành QCVN 15:2015/BTTTT, thay QCVN 15:2010 từ 01/03/2016 (theo Điều 2). Sau đó Thông tư 43/2020/TT-BTTTT của Bộ trưởng Bộ Thông tin và Truyền thông ban hành QCVN về thiết bị đầu cuối thông tin di động mặt đất - Phần truy nhập vô tuyến, thay TT23/2015 từ 01/07/2021 (theo Quyết định 138/QĐ-BTTTT ngày 26/01/2022) |
+| 15 | QCVN 16:2010/BTTTT | Thiết bị trạm gốc thông tin di động W-CDMA FDD | Đã thay thế (từ trước 2022) | Thông tư 06/2018/TT-BTTTT của Bộ trưởng Bộ Thông tin và Truyền thông (ngày 09/05/2018, ký Trương Minh Tuấn) ban hành QCVN 16:2018/BTTTT, thay QCVN 16:2010 từ 01/07/2019 (theo Điều 2; tiêu đề trang vbpl.vn ghi 01/07/2018 là sai lệch); TT06/2018 còn hiệu lực |
 | 16 | QCVN 17:2010/BTTTT | Thiết bị đầu cuối thông tin di động E-UTRA FDD | Đã bãi bỏ | Điểm d khoản 1 Điều 1 Thông tư 23/2021/TT-BTTTT, hiệu lực 01/07/2022 |
 | 17 | QCVN 18:2010/BTTTT | Tương thích điện từ đối với thiết bị thông tin vô tuyến điện | Đã thay thế (chuỗi 2 lần) | Lần 1: Thông tư 21/2014/TT-BTTTT ban hành QCVN 18:2014/BTTTT, hiệu lực 01/01/2015, thay QCVN 18:2010. Lần 2: Thông tư 22/2022/TT-BTTTT ban hành QCVN 18:2022/BTTTT, hiệu lực 01/05/2023, thay QCVN 18:2014; TT22/2022 còn hiệu lực |
 | 18 | QCVN 19:2010/BTTTT | Yêu cầu chung đối với thiết bị đầu cuối kết nối vào mạng điện thoại qua giao diện tương tự | Còn hiệu lực (phiên bản 2010) | — |
@@ -41,8 +41,8 @@
 ## Ghi chú về dữ liệu mâu thuẫn trên vbpl.vn
 
 - Trang 18/2010 trên vbpl.vn ghi "Hết hiệu lực toàn bộ" ngày 01/07/2018 — không phù hợp với việc bản hợp nhất 2022 vẫn còn hiệu lực một phần và với các văn bản thay thế sau đó (2022–2024). Bảng này ưu tiên nội dung điều khoản của các văn bản thay thế và bản hợp nhất.
-- Ngày hiệu lực của Thông tư 22/2015/TT-BTTTT: Điều 2 ghi 01/03/2016, tiêu đề trang vbpl.vn ghi 01/09/2016. Bảng này không chốt ngày nào, chỉ ghi chuỗi thay thế.
-- Ngày hiệu lực thay thế của QCVN 16:2010: Điều 2 của Thông tư 06/2018 ghi 01/07/2019, tiêu đề trang vbpl.vn ghi 01/07/2018. Bảng này không chốt ngày nào, chỉ ghi chuỗi thay thế.
+- Ngày hiệu lực của Thông tư 22/2015/TT-BTTTT: Điều 2 ghi 01/03/2016; tiêu đề trang vbpl.vn ghi 01/09/2016 là sai lệch — bảng này lấy theo Điều 2 (khớp với Cổng thông tin thương mại Việt Nam, ngày hiệu lực 01/03/2016).
+- Ngày hiệu lực thay thế của QCVN 16:2010: Điều 2 của Thông tư 06/2018 ghi 01/07/2019; tiêu đề trang vbpl.vn ghi 01/07/2018 là sai lệch — bảng này lấy theo Điều 2 (khớp với bản Công báo số 631 + 632 ngày 25/05/2018).
 - Lược đồ 18/2010 trên vbpl.vn không đầy đủ cho chuỗi kế tiếp (ví dụ TT22/2022 thay QCVN 18:2014 không có trong Lược đồ 18/2010).
 
 ## Nguồn chính
@@ -54,5 +54,7 @@
 - Thông tư 22/2022/TT-BTTTT (khoản 17, chuỗi QCVN 18): https://vbpl.vn/van-ban/chi-tiet/thong-tu-so-22-2022-tt-btttt-ban-hanh-quy-chuan-ky-thuat-quoc-gia-ve-tuong-thich-dien-tu-doi-voi-thiet-bi-thong-tin-vo-tuyen-dien--157617
 - Thông tư 21/2014/TT-BTTTT (QCVN 18:2014): https://vbpl.vn/van-ban/chi-tiet/thong-tu-so-21-2014-tt-btttt-ban-hanh-quy-chuan-ky-thuat-quoc-gia-ve-tuong-thich-dien-tu-doi-voi-thiet-bi-thong-tin-vo-tuyen-dien--47443
 - Thông tư 26/2016/TT-BTTTT (khoản 8): https://vbpl.vn/van-ban/chi-tiet/thong-tu-so-26-2016-tt-btttt-ban-hanh-quy-chuan-ky-thuat-quoc-gia-ve-tiep-dat-cho-cac-tram-vien-thong--168802
-- Thông tư 22/2015/TT-BTTTT (khoản 11): https://vbpl.vn/van-ban/chi-tiet/thong-tu-so-22-2015-tt-btttt-ban-hanh-quy-chuan-ky-thuat-quoc-gia-ve-thiet-bi-dau-cuoi-thong-tin-di-dong-gsm--86539
-- Thông tư 06/2018/TT-BTTTT (khoản 15): https://vbpl.vn/van-ban/chi-tiet/thong-tu-so-06-2018-tt-btttt-ban-hanh-quy-chuan-ky-thuat-quoc-gia-ve-thiet-bi-lap-thong-tin-di-dong-w-cdma-fdd--137460
+- Thông tư 22/2015/TT-BTTTT của Bộ Thông tin và Truyền thông (khoản 11): https://vbpl.vn/van-ban/chi-tiet/thong-tu-so-22-2015-tt-btttt-ban-hanh-quy-chuan-ky-thuat-quoc-gia-ve-thiet-bi-dau-cuoi-thong-tin-di-dong-gsm--86539
+- Thông tư 23/2015/TT-BTTTT của Bộ Thông tin và Truyền thông (khoản 14): văn bản gốc trên Công báo (số 961 + 962) và dulieuphapluat.vn
+- Thông tư 43/2020/TT-BTTTT của Bộ Thông tin và Truyền thông (kế tiếp của khoản 11 và 14 từ 01/07/2021) và Quyết định 138/QĐ-BTTTT ngày 26/01/2022 (danh mục văn bản hết hiệu lực năm 2021)
+- Thông tư 06/2018/TT-BTTTT của Bộ Thông tin và Truyền thông (khoản 15): https://vbpl.vn/van-ban/chi-tiet/thong-tu-so-06-2018-tt-btttt-ban-hanh-quy-chuan-ky-thuat-quoc-gia-ve-thiet-bi-lap-thong-tin-di-dong-w-cdma-fdd--137460
