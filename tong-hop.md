@@ -133,6 +133,7 @@ Các file dưới đây đã bị xóa khỏi repo (lịch sử Git vẫn giữ 
 | nghi-dinh/60-49-2017-ND-CP.md | Nghị định 49/2017/NĐ-CP của Chính phủ hết hiệu lực |
 | thong-tu/72-24-2020-TT-BTTTT.md | Thông tư 24/2020/TT-BTTTT của Bộ trưởng Bộ Thông tin và Truyền thông hết hiệu lực, thay bởi Thông tư 41/2026/TT-BKHCN của Bộ trưởng Bộ Khoa học và Công nghệ (cùng thay thế Thông tư 16/2024/TT-BTTTT của Bộ trưởng Bộ Thông tin và Truyền thông, văn bản này không có trong bộ) |
 | thong-tu/79-139-2010-TT-BTC.md | Thông tư 139/2010/TT-BTC của Bộ trưởng Bộ Tài chính hết hiệu lực |
+| nghi-dinh/53-40-2020-ND-CP.md | Nghị định 40/2020/NĐ-CP của Chính phủ hết hiệu lực (xác nhận của người dùng ngày 04/11/2026, thay quyết định theo vbpl.vn trước đó; văn bản thay thế chưa được nêu) |
 
 Giữ lại, không xóa: Luật Viễn thông 24/2023/QH15 của Quốc hội (còn hiệu lực, xác nhận 04/11/2026) và Thông tư 45/2013/TT-BTC của Bộ trưởng Bộ Tài chính (còn hiệu lực, xác nhận 04/11/2026).
 
