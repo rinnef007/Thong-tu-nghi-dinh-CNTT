@@ -1,4 +1,4 @@
-# Luật Công nghệ thông tin — bản hợp nhất 65/VBHN-VPQH 2025 (gốc 67/2006/QH11)
+# Luật Công nghệ thông tin — bản hợp nhất 65/VBHN-VPQH 2025 (gốc 67/2006/QH11) — HẾT HIỆU LỰC từ 01/07/2026, thay thế bởi Luật Chuyển đổi số 148/2025/QH15
 
 - Mục danh mục 85: 43
 - Tách từ file tổng hợp luật ngày 04/11/2026, nội dung giữ nguyên từ file tổng hợp, không tóm tắt.
