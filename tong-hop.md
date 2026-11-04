@@ -131,3 +131,16 @@ Các file dưới đây đã bị xóa khỏi repo (lịch sử Git vẫn giữ 
 
 Giữ lại, không xóa: Luật Viễn thông 24/2023/QH15 (còn hiệu lực, xác nhận 04/11/2026) và Thông tư 45/2013/TT-BTC (còn hiệu lực, xác nhận 04/11/2026).
 
+
+## Văn bản thay thế mới bổ sung đợt 2 ngày 04/11/2026 (toàn văn từ vbpl.vn)
+
+| Văn bản thay thế | File mới | Phạm vi và nguồn |
+|---|---|---|
+| Luật Ngân sách nhà nước 89/2025/QH15 (thay 83/2015) | [luat/89-2025-QH15-luat-ngan-sach-nha-nuoc.md](luat/89-2025-QH15-luat-ngan-sach-nha-nuoc.md) | Điều 1–79; ban hành 25/06/2025, hiệu lực 01/01/2026; trạng thái trên vbpl.vn: Hết hiệu lực một phần; nguồn tệp docx vbpl.vn |
+| Luật An ninh mạng 116/2025/QH15 (thay Luật ATTTM 86/2015) | [luat/116-2025-QH15-luat-an-ninh-mang.md](luat/116-2025-QH15-luat-an-ninh-mang.md) | 8 chương, Điều 1–45; ban hành 10/12/2025, hiệu lực 01/07/2026; trạng thái trên vbpl.vn: Hết hiệu lực một phần; nguồn tệp docx vbpl.vn |
+| Nghị định 73/2026/NĐ-CP (thay 163/2016) | [nghi-dinh/73-2026-ND-CP.md](nghi-dinh/73-2026-ND-CP.md) | 8 chương, Điều 1–52; ban hành 10/03/2026, hiệu lực từ năm ngân sách 2026 (Điều 51 bãi bỏ 163/2016); trạng thái trên vbpl.vn: Còn hiệu lực; nguồn tệp docx vbpl.vn |
+| Nghị định 163/2024/NĐ-CP (thay 25/2011 và 81/2016) | [nghi-dinh/163-2024-ND-CP.md](nghi-dinh/163-2024-ND-CP.md) | 7 chương, Điều 1–86, Phụ lục Mẫu số 01–45; ban hành và hiệu lực 24/12/2024; trạng thái trên vbpl.vn: Còn hiệu lực; nguồn tệp docx vbpl.vn (số điều khôi phục từ đánh số tự động của file Word gốc; PDF văn bản gốc là bản scan, không trích được text) |
+| Thông tư 39/2026/TT-BKHCN (thay 18/2024) | [thong-tu/39-2026-TT-BKHCN.md](thong-tu/39-2026-TT-BKHCN.md) | Điều 1–11; ban hành và hiệu lực 01/07/2026; Điều 10: 18/2024 hết hiệu lực từ 01/07/2026, dự án đang thực hiện theo 18/2024 được tiếp tục theo 18/2024 trừ khi cấp thẩm quyền chọn theo 39/2026; trạng thái trên vbpl.vn: Còn hiệu lực; nguồn tệp docx vbpl.vn |
+| Thông tư 41/2026/TT-BKHCN (thay 24/2020 và 16/2024) | [thong-tu/41-2026-TT-BKHCN.md](thong-tu/41-2026-TT-BKHCN.md) | Điều 1–21, Chương I–VII; ban hành và hiệu lực 01/07/2026; tab Thuộc tính của vbpl.vn ghi thay thế cho cả 24/2020 và 16/2024 (trong Điều 20 chỉ nêu rõ 16/2024 hết hiệu lực); trạng thái trên vbpl.vn: Còn hiệu lực; nguồn tệp docx vbpl.vn |
+| Thông tư 01/2026/TT-BVHTTDL (thay 03/2018 và 09/2020) | [thong-tu/01-2026-TT-BVHTTDL.md](thong-tu/01-2026-TT-BVHTTDL.md) | Chính văn Điều 1–6 đủ (ký Bộ trưởng Nguyễn Văn Hùng); Điều 6 khoản 2: 03/2018 và 09/2020 hết hiệu lực từ 30/04/2026; Phụ lục I và II chỉ lập mục lục mã định mức (PT, TH), bảng số liệu đầy đủ nằm trong 2 tệp PDF gốc trên vbpl.vn; ban hành 12/03/2026, hiệu lực 30/04/2026; trạng thái trên vbpl.vn: Còn hiệu lực |
+| Thông tư 54/2024/TT-BTC (bãi bỏ 58/2016 và 68/2022) | [thong-tu/54-2024-TT-BTC.md](thong-tu/54-2024-TT-BTC.md) | Điều 1–2, không phụ lục; Điều 1 bãi bỏ 58/2016 và 68/2022; ban hành 24/07/2024, hiệu lực 09/09/2024; trạng thái trên vbpl.vn: Còn hiệu lực |
