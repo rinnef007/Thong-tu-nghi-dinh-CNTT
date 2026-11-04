@@ -19,10 +19,8 @@ Bộ này tách từ 3 file tổng hợp lớn ngày 04/11/2026 thành từng fi
 | Mục danh mục | Văn bản | File | Trạng thái |
 |---|---|---|---|
 | 1 | Luật An ninh mạng 24/2018/QH14 | [luat/01-luat-an-ninh-mang-24-2018-QH14.md](luat/01-luat-an-ninh-mang-24-2018-QH14.md) | Đủ 7 chương, điều 1–43 sau bổ sung; cần đối chiếu lại với GXD khi hết giới hạn 429 trước khi coi là bản chốt |
-| 2 | Luật An toàn thông tin mạng 86/2015/QH13 | [luat/02-luat-an-toan-thong-tin-mang-86-2015-QH13.md](luat/02-luat-an-toan-thong-tin-mang-86-2015-QH13.md) | Đủ 54 điều theo bản gốc; đây là bản gốc, không phải bản hợp nhất, đã sửa đổi bởi Luật 35/2018 nên cần đối chiếu thêm |
 | 43 | Luật Công nghệ thông tin — bản hợp nhất 65/VBHN-VPQH 2025 (gốc 67/2006/QH11) | [luat/43-luat-cong-nghe-thong-tin-hop-nhat-65-VBHN-VPQH-2025.md](luat/43-luat-cong-nghe-thong-tin-hop-nhat-65-VBHN-VPQH-2025.md) | **HẾT HIỆU LỰC từ 01/07/2026 — thay thế bởi Luật Chuyển đổi số 148/2025/QH15** (Quốc hội thông qua 11/12/2025, hiệu lực 01/07/2026, 8 chương, 48 điều, thay thế hoàn toàn Luật Công nghệ thông tin 67/2006). File giữ bản hợp nhất 65 cũ để đối chiếu lịch sử; không dùng bản này làm căn cứ hiện hành sau 01/07/2026. Toàn văn văn bản thay thế: [luat/148-2025-QH15-luat-chuyen-doi-so.md](luat/148-2025-QH15-luat-chuyen-doi-so.md) |
-| 44 | Luật Ngân sách nhà nước 83/2015/QH13 | [luat/44-luat-ngan-sach-nha-nuoc-83-2015-QH13.md](luat/44-luat-ngan-sach-nha-nuoc-83-2015-QH13.md) | Đủ 7 chương, điều 1–77 |
-| 45 | Luật Viễn thông 24/2023/QH15 (thay thế 41/2009/QH12) | [luat/45-luat-vien-thong-24-2023-QH15.md](luat/45-luat-vien-thong-24-2023-QH15.md) | Đủ 10 chương, điều 1–73; bảng phí, lệ phí tại điều 71 khoản 3 chưa hiển thị đầy đủ trong nguồn chính, cần đối chiếu thêm |
+| 45 | Luật Viễn thông 24/2023/QH15 (thay thế 41/2009/QH12) | [luat/45-luat-vien-thong-24-2023-QH15.md](luat/45-luat-vien-thong-24-2023-QH15.md) | Đủ 10 chương, điều 1–73; bảng phí, lệ phí tại điều 71 khoản 3 chưa hiển thị đầy đủ trong nguồn chính, cần đối chiếu thêm. **CÒN HIỆU LỰC** (xác nhận của người dùng 04/11/2026) |
 | 46 | Luật Tần số vô tuyến điện 42/2009/QH12 | [luat/46-luat-tan-so-vo-tuyen-dien-42-2009-QH12.md](luat/46-luat-tan-so-vo-tuyen-dien-42-2009-QH12.md) | Đủ 49 điều, 8 chương, luật gốc không có phụ lục trong nguồn đã đọc. **Đã sửa đổi, bổ sung một số điều bởi Luật 09/2022/QH15, hiệu lực 01/07/2023** (xác nhận của người dùng 04/11/2026; Công báo có Luật 09/2022 và văn bản hợp nhất 62/VBHN-VPQH) |
 
 Hình ảnh luật: [hinh-anh/luat.md](hinh-anh/luat.md) — trong 3 luật bổ sung không phát hiện nội dung chỉ có dạng hình ảnh.
@@ -38,10 +36,6 @@ Mỗi file nhỏ dưới đây đã gộp phần gốc + phần bổ sung nối 
 | 5, 56 | Nghị định 85/2016/NĐ-CP | [nghi-dinh/05-85-2016-ND-CP.md](nghi-dinh/05-85-2016-ND-CP.md) | Đã gộp phần còn lại điều 14 đến điều 26 và Phụ lục Mẫu 01–07. **CÒN HIỆU LỰC, THAY THẾ MỘT PHẦN** (xác nhận của người dùng 04/11/2026) |
 | 53, 61 | Nghị định 40/2020/NĐ-CP | [nghi-dinh/53-40-2020-ND-CP.md](nghi-dinh/53-40-2020-ND-CP.md) | **Theo vbpl.vn (tra ngày 04/11/2026): CÒN HIỆU LỰC, ĐÃ ĐỦ TOÀN VĂN** — Lược đồ vbpl.vn ghi "Còn hiệu lực", cập nhật 17/04/2026. Gap Mẫu 07–09 trước đây đã được đóng ngày 04/11/2026 bằng tệp Phụ lục II docx của vbpl.vn (phần còn lại Mẫu 07 từ mục 12, Mẫu 08, Mẫu 09, khớp tại điểm dừng cũ mục 11 Mẫu 07). Lưu ý sửa đổi một phần: theo toàn văn Nghị định 54/2021/NĐ-CP (21/05/2021) Điều 6 khoản 2, **Điều 12 của Nghị định 40/2020 đã bị bãi bỏ** — điểm này Lược đồ vbpl.vn chưa liệt kê, nên khi áp dụng Điều 12 cần đối chiếu thêm. Không nhầm chiều: Nghị định 40/2020 bãi bỏ một phần Nghị định 73/2019 (khoản 3 Điều 53 của 40/2020), đó là văn bản bị 40/2020 tác động, không phải văn bản sửa đổi 40/2020. Điều 55 Nghị định 85/2025/NĐ-CP không nêu thay thế 40/2020 |
 | 55 | Nghị định 64/2007/NĐ-CP | [nghi-dinh/55-64-2007-ND-CP.md](nghi-dinh/55-64-2007-ND-CP.md) | Đủ nội dung điều khoản từ điều 14 đến điều 56; còn thiếu tiêu đề chính thức các điều 18–56, tiêu đề chương/mục, khối ký tên và đối chiếu nguồn chính thức. **HẾT HIỆU LỰC từ 01/07/2026 theo Điều 90 khoản 2 Nghị định 224/2026/NĐ-CP** (cùng với 45/2026 và 42/2022), không dùng làm căn cứ hiện hành sau ngày đó |
-| 57 | Nghị định 163/2016/NĐ-CP | [nghi-dinh/57-163-2016-ND-CP.md](nghi-dinh/57-163-2016-ND-CP.md) | Đủ toàn văn tiếng Việt điều 1–55; lưu ý điều 33 trong nguồn nhảy khoản và một số lỗi ký tự đã chuẩn hóa theo ngữ cảnh |
-| 58 | Nghị định 25/2011/NĐ-CP | [nghi-dinh/58-25-2011-ND-CP.md](nghi-dinh/58-25-2011-ND-CP.md) | Đã gộp phần còn lại đến điều 46 và khối ký tên, bản gốc 2011 |
-| 59 | Nghị định 81/2016/NĐ-CP | [nghi-dinh/59-81-2016-ND-CP.md](nghi-dinh/59-81-2016-ND-CP.md) | Đã gộp phần còn lại đến Mẫu 07; còn thiếu số thứ tự khoản điều 24c, số điều thi hành và khối ký tên do nguồn lược hiển thị |
-| 60 | Nghị định 49/2017/NĐ-CP | [nghi-dinh/60-49-2017-ND-CP.md](nghi-dinh/60-49-2017-ND-CP.md) | Đủ, đã bổ sung khối ký tên / nơi nhận |
 | 62 | Nghị định 18/2014/NĐ-CP | [nghi-dinh/62-18-2014-ND-CP.md](nghi-dinh/62-18-2014-ND-CP.md) | Đủ, không có phụ lục trong bản trích nguồn |
 
 Hình ảnh nghị định: [hinh-anh/nghi-dinh.md](hinh-anh/nghi-dinh.md)
@@ -55,14 +49,12 @@ Hình ảnh nghị định: [hinh-anh/nghi-dinh.md](hinh-anh/nghi-dinh.md)
 | 8, 69 | Thông tư 39/2017/TT-BTTTT | [thong-tu/08-39-2017-TT-BTTTT.md](thong-tu/08-39-2017-TT-BTTTT.md) | Đủ điều 1–6 và danh mục tiêu chuẩn |
 | 9 | Thông tư 18/2010/TT-BTTTT | [thong-tu/09-18-2010-TT-BTTTT.md](thong-tu/09-18-2010-TT-BTTTT.md) | Đủ phần thông tư điều 1–3 và danh sách 21 QCVN; chưa có toàn văn chi tiết từng QCVN |
 | 71 | Thông tư liên tịch 19/2012/TTLT-BTC-BKH&ĐT-BTTTT | [thong-tu/71-19-2012-TTLT-BTC-BKHDT-BTTTT.md](thong-tu/71-19-2012-TTLT-BTC-BKHDT-BTTTT.md) | Đủ chương I–III, điều 1–12 và Phụ lục I dạng text sau bổ sung |
-| 72 | Thông tư 24/2020/TT-BTTTT | [thong-tu/72-24-2020-TT-BTTTT.md](thong-tu/72-24-2020-TT-BTTTT.md) | Đủ điều 1–13 và phụ lục I–IV; khối ký tên không hiển thị trong bản trích nguồn |
 | 73 | Thông tư 58/2016/TT-BTC | [thong-tu/73-58-2016-TT-BTC.md](thong-tu/73-58-2016-TT-BTC.md) | Đủ tới hết điều 27, không có phụ lục trong bản hiển thị. **HẾT HIỆU LỰC TOÀN BỘ từ 09/09/2024 — bị bãi bỏ bởi Thông tư 54/2024/TT-BTC ngày 24/07/2024** (cùng với Thông tư 68/2022/TT-BTC sửa đổi 58/2016) — xác nhận của người dùng 04/11/2026 |
 | 74 | Thông tư 40/2017/TT-BTC | [thong-tu/74-40-2017-TT-BTC.md](thong-tu/74-40-2017-TT-BTC.md) | Đủ điều 1–16, không có phụ lục |
 | 75 | Thông tư 27/2018/TT-BTC | [thong-tu/75-27-2018-TT-BTC.md](thong-tu/75-27-2018-TT-BTC.md) | Cơ bản đủ; còn cần đối chiếu dòng ký tên và khả năng một điểm bị lược |
-| 76 | Thông tư 45/2013/TT-BTC | [thong-tu/76-45-2013-TT-BTC.md](thong-tu/76-45-2013-TT-BTC.md) | Đã bổ sung đủ phần còn lại điều 10, điều 14, Phụ lục I và Phụ lục 2; còn lưu ý hệ số điều chỉnh khác nhau giữa 2 nguồn |
+| 76 | Thông tư 45/2013/TT-BTC | [thong-tu/76-45-2013-TT-BTC.md](thong-tu/76-45-2013-TT-BTC.md) | Đã bổ sung đủ phần còn lại điều 10, điều 14, Phụ lục I và Phụ lục 2; còn lưu ý hệ số điều chỉnh khác nhau giữa 2 nguồn. **CÒN HIỆU LỰC** (xác nhận của người dùng 04/11/2026, thay cờ "hết một phần" của vbpl.vn) |
 | 77 | Thông tư 03/2018/TT-BTTTT | [thong-tu/77-03-2018-TT-BTTTT.md](thong-tu/77-03-2018-TT-BTTTT.md) | **HẾT HIỆU LỰC từ 30/04/2026 — thay thế bởi Thông tư 01/2026/TT-BVHTTDL (12/03/2026, Bộ Văn hóa, Thể thao và Du lịch) về định mức kinh tế - kỹ thuật dịch vụ sản xuất chương trình phát thanh, truyền hình.** File giữ toàn văn cũ để đối chiếu lịch sử; các bảng Phần II và phụ lục ở giữa còn thiếu không cần bổ sung cho hồ sơ mới |
 | 78 | Thông tư 194/2012/TT-BTC | [thong-tu/78-194-2012-TT-BTC.md](thong-tu/78-194-2012-TT-BTC.md) | Đủ 6 điều, không có phụ lục trong bản đã đọc |
-| 79 | Thông tư 139/2010/TT-BTC | [thong-tu/79-139-2010-TT-BTC.md](thong-tu/79-139-2010-TT-BTC.md) | Đủ điều 1–6; danh sách nơi nhận cuối văn bản không hiển thị đầy đủ trong bản trích nguồn |
 
 Hình ảnh thông tư: [hinh-anh/thong-tu.md](hinh-anh/thong-tu.md) — ghi rõ các công thức Thông tư 18/2024 dạng ảnh image001–image040 và 3 bảng tỷ lệ chưa hiển thị rõ ô số liệu.
 
@@ -121,3 +113,21 @@ Hình ảnh thông tư: [hinh-anh/thong-tu.md](hinh-anh/thong-tu.md) — ghi rõ
 - Nghị định 85/2016/NĐ-CP: còn hiệu lực, thay thế một phần.
 - Luật Tần số vô tuyến điện 42/2009/QH12: được sửa đổi, bổ sung một số điều bởi Luật 09/2022/QH15, hiệu lực 01/07/2023.
 - Thông tư 58/2016/TT-BTC (cùng Thông tư 68/2022/TT-BTC sửa đổi nó): bị bãi bỏ toàn bộ bởi Thông tư 54/2024/TT-BTC ngày 24/07/2024, hiệu lực 09/09/2024. File 58/2016 trong bộ này giữ lại để đối chiếu lịch sử.
+
+## Đã xóa khỏi bộ toàn văn ngày 04/11/2026 (hết hiệu lực, theo xác nhận của người dùng)
+
+Các file dưới đây đã bị xóa khỏi repo (lịch sử Git vẫn giữ lại, và bản sao lưu cục bộ nằm ở ~/workspace/deleted-expired-legal/); các dòng tương ứng trong bảng trên đã được gỡ, còn danh mục 85 mục gốc vẫn giữ dòng và ghi chú đã xóa để không mất dấu vết:
+
+| File đã xóa | Lý do xóa |
+|---|---|
+| luat/44-luat-ngan-sach-nha-nuoc-83-2015-QH13.md | Luật 83/2015 hết hiệu lực, thay bởi Luật 89/2025/QH15 |
+| luat/02-luat-an-toan-thong-tin-mang-86-2015-QH13.md | Luật 86/2015 hết hiệu lực, thay bởi Luật 116/2025/QH15 |
+| nghi-dinh/57-163-2016-ND-CP.md | Nghị định 163/2016 hết hiệu lực, thay bởi Nghị định 73/2026/NĐ-CP |
+| nghi-dinh/58-25-2011-ND-CP.md | Nghị định 25/2011 hết hiệu lực, thay bởi Nghị định 163/2024/NĐ-CP |
+| nghi-dinh/59-81-2016-ND-CP.md | Nghị định 81/2016 hết hiệu lực, thay bởi Nghị định 163/2024/NĐ-CP |
+| nghi-dinh/60-49-2017-ND-CP.md | Nghị định 49/2017 hết hiệu lực |
+| thong-tu/72-24-2020-TT-BTTTT.md | Thông tư 24/2020/TT-BTTTT hết hiệu lực, thay bởi Thông tư 41/2026/TT-BKHCN (cùng thay thế Thông tư 16/2024/TT-BTTTT, văn bản này không có trong bộ) |
+| thong-tu/79-139-2010-TT-BTC.md | Thông tư 139/2010/TT-BTC hết hiệu lực |
+
+Giữ lại, không xóa: Luật Viễn thông 24/2023/QH15 (còn hiệu lực, xác nhận 04/11/2026) và Thông tư 45/2013/TT-BTC (còn hiệu lực, xác nhận 04/11/2026).
+
